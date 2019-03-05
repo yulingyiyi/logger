@@ -1,0 +1,12 @@
+.right
+{
+position:absolute;
+right:0px;
+width:150px;
+height: 64px;
+margin-left: 10px;
+margin-right: 10px;
+}
+.register {
+    margin-left: 10px;
+}
